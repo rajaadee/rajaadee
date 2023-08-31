@@ -9,7 +9,6 @@ Saya dapat membantu kamu dalam mengembangkan Design System (UIUX) dan FrontEnd W
     <img src="https://img.shields.io/badge/Fraimwork-CodeIgniter-red?&logo=codeigniter" />
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
     <img src="https://img.shields.io/badge/Figma-white?&logo=figma" />
-    <img src="https://gpvc.arturio.dev/rajaadee" />
 </p>
 
 ### Bahasa Pemrograman:
